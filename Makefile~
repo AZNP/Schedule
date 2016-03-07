@@ -1,0 +1,2 @@
+sched: sched.cpp
+	g++ -Wall sched.cpp -o sched
